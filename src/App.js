@@ -30,6 +30,7 @@ const App = () => {
       {
         return [expense,...prevExpenses];
       });
+    // setExpenses([expense,...expenses]);    This method also works fine.
   }
   return (
     <div>
