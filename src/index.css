@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://static-app-misc.teachbanzai.com/img/income-and-expenses-spot.jpg");
+  background-size: contain;
 }
 
 code {
@@ -13,6 +15,6 @@ code {
 }
 h1
 {
-  color: red;
+  color:#9cd8a1;
   text-align: center;
 }
